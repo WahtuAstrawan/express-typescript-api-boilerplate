@@ -1,5 +1,5 @@
 # Express Typescript Rest API Boilerplate
 
-This is my personal express rest api with typescript boilerplate with authentication, please give it a star to support me :)
+Welcome to my personal Express REST API TypeScript boilerplate with built-in authentication! If you find it helpful, please give it a star to show your support. 😊
 
-Need contributor for code improvement
+Feel free to adjust it further to suit your preferences!
